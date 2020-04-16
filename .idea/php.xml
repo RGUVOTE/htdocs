@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/rguvote/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/composer" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/kriswallsmith/buzz" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/multipart-stream-builder" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/rguvote/vendor/mailgun/mailgun-php" />
+    </include_path>
+  </component>
+</project>
